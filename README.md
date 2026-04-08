@@ -37,9 +37,11 @@ The total cost of materials is approximately €50. You will need both the stand
 
 **Print with Bambu Studio (Plug & Play):**
 
-Download the `.3mf` plate with all elements ready to go — settings are already configured inside the file, just slice and print!
+Download the `.3mf` plates with all elements ready to go — settings are already configured inside the files, just slice and print!
 
-👉 📥 **[Download the Bambu Studio .3mf File](ruta/al/bambu.3mf)**
+👉 📥 **[Download Right Leg .3mf File](ruta/al/bambu_right.3mf)**
+
+👉 📥 **[Download Left Leg .3mf File](ruta/al/bambu_left.3mf)**
 
 *Basic Slicing Guidelines:*
 - **Material:** PLA Basic recommended.
