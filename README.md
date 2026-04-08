@@ -1,7 +1,7 @@
 #  Re-Move: Open-Source Knee Exoskeleton
 
 <p align="center">
-  <img src="ruta_a_la_teva_foto.jpg" width="600" title="Re-Move Exoskeleton">
+  <img src="(https://github.com/MarcelHansmann/Re-Move-Exoskeleton/blob/main/photos/Img2.png)" width="600" title="Re-Move Exoskeleton">
 </p>
 
 *Designed to democratize access to mobility assistance.*
@@ -39,9 +39,11 @@ The total cost of materials is approximately €50. You will need both the stand
 
 Download the `.3mf` plates with all elements ready to go — settings are already configured inside the files, just slice and print!
 
-👉 📥 **[Download Right Leg .3mf File](ruta/al/bambu_right.3mf)**
+👉 📥 **[Download Right Leg .3mf File](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/blob/main/BambuLabFiles/RightLegPlate.3mf
+)**
 
-👉 📥 **[Download Left Leg .3mf File](ruta/al/bambu_left.3mf)**
+👉 📥 **[Download Left Leg .3mf File](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/blob/main/BambuLabFiles/LeftLegPlate.3mf
+)**
 
 *Basic Slicing Guidelines:*
 - **Material:** PLA Basic recommended.
@@ -57,19 +59,27 @@ Download the `.3mf` plates with all elements ready to go — settings are alread
 For those who want to modify or inspect the design, the original SolidWorks files are available below.
 
 *Right Leg (4 parts):*
-- 📥 [Download Right Leg Part 1.SLDPRT](ruta/al/right_leg_1.SLDPRT)
-- 📥 [Download Right Leg Part 2.SLDPRT](ruta/al/right_leg_2.SLDPRT)
-- 📥 [Download Right Leg Part 3.SLDPRT](ruta/al/right_leg_3.SLDPRT)
-- 📥 [Download Right Leg Part 4.SLDPRT](ruta/al/right_leg_4.SLDPRT)
+- 📥 [Download Right Leg Part 1.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/blob/main/cad/Part1_Right.SLDPRT
+)
+- 📥 [Download Right Leg Part 2.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/blob/main/cad/Part2_Right.SLDPRT
+)
+- 📥 [Download Right Leg Part 3.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/blob/main/cad/Part3_Right.SLDPRT 
+)
+- 📥 [Download Right Leg Part 4.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/blob/main/cad/Part4_Right.SLDPRT 
+)
 
 *Left Leg (4 parts):*
-- 📥 [Download Left Leg Part 1.SLDPRT](ruta/al/left_leg_1.SLDPRT)
-- 📥 [Download Left Leg Part 2.SLDPRT](ruta/al/left_leg_2.SLDPRT)
-- 📥 [Download Left Leg Part 3.SLDPRT](ruta/al/left_leg_3.SLDPRT)
-- 📥 [Download Left Leg Part 4.SLDPRT](ruta/al/left_leg_4.SLDPRT)
+- 📥 [Download Left Leg Part 1.SLDPRT](:https://github.com/MarcelHansmann/Re-Move-Exoskeleton/blob/main/cad/Part1_Left.SLDPRT
+)
+- 📥 [Download Left Leg Part 2.SLDPRT](:https://github.com/MarcelHansmann/Re-Move-Exoskeleton/blob/main/cad/Part2_Left.SLDPRT
+)
+- 📥 [Download Left Leg Part 3.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/blob/main/cad/Part3_Left.SLDPRT )
+- 📥 [Download Left Leg Part 4.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/blob/main/cad/Part4_left.SLDPRT 
+)
 
 *Shared Part (both legs):*
-- 📥 [Download Shared Part.SLDPRT](ruta/al/shared_part.SLDPRT)
+- 📥 [Download Shared Part.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/blob/main/cad/Part5_Shared.SLDPRT 
+)
 
 ## 🛠️ Assembly Instructions
 Re-Move is designed for easy self-assembly. You do not need advanced technical skills, and the process takes less than 2 hours.
