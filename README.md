@@ -1,22 +1,23 @@
 #  Re-Move: Open-Source Knee Exoskeleton
 
 <p align="center">
-  <img src="(https://raw.githubusercontent.com/MarcelHansmann/Re-Move-Exoskeleton/main/photos/Img2.png)" width="600" title="Re-Move Exoskeleton">
+  <img src="https://raw.githubusercontent.com/MarcelHansmann/Re-Move-Exoskeleton/main/photos/Img2.png" width="600" title="Re-Move Exoskeleton">
 </p>
 
 *Designed to democratize access to mobility assistance.*
 
-## 🎯 Overview
+##  Overview
 Re-Move is a knee exoskeleton designed to assist with squatting movements. Rooted in an open-source philosophy and engineered for user fabrication, its goal is to democratize access to mobility assistance. Current commercial solutions cost around €2,000; **Re-Move reduces this cost to just €50 per unit**, making it forty times more affordable.
 
 The system stores potential energy in elastic springs during knee flexion (the downward phase) and releases it in a controlled manner during extension (the upward phase), providing a **23% assistance** to the user's effort. Structurally, the device consists of four 3D-printed elements assembled with standardized metal components that provide all necessary structural rigidity.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/MarcelHansmann/Re-Move-Exoskeleton/main/photos/Img4.png" width="600" title="Re-Move Exoskeleton">
 </p>
+
 ---
 
-
-## 📦 Bill of Materials (BOM) & Files
+##  Bill of Materials (BOM) & Files
 
 The total cost of materials is approximately €50. You will need both the standard hardware components and the 3D printed parts.
 
@@ -39,11 +40,9 @@ The total cost of materials is approximately €50. You will need both the stand
 
 Download the `.3mf` plates with all elements ready to go — settings are already configured inside the files, just slice and print!
 
-👉 📥 **[Download Right Leg .3mf File](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/BambuLabFiles/RightLegPlate.3mf
-)**
+ 📥 **[Download Right Leg .3mf File](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/BambuLabFiles/RightLegPlate.3mf)**
 
-👉 📥 **[Download Left Leg .3mf File](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/BambuLabFiles/LeftLegPlate.3mf
-)**
+📥 **[Download Left Leg .3mf File](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/BambuLabFiles/LeftLegPlate.3mf)**
 
 *Basic Slicing Guidelines:*
 - **Material:** PLA Basic recommended.
@@ -59,48 +58,21 @@ Download the `.3mf` plates with all elements ready to go — settings are alread
 For those who want to modify or inspect the design, the original SolidWorks files are available below.
 
 *Right Leg (4 parts):*
-- 📥 [Download Right Leg Part 1.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/cad/Part1_Right.SLDPRT
-)
-- 📥 [Download Right Leg Part 2.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/cad/Part2_Right.SLDPRT
-)
-- 📥 [Download Right Leg Part 3.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/cad/Part3_Right.SLDPRT
-)
-- 📥 [Download Right Leg Part 4.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/cad/Part4_Right.SLDPRT
-)
+- 📥 [Download Right Leg Part 1.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/cad/Part1_Right.SLDPRT)
+- 📥 [Download Right Leg Part 2.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/cad/Part2_Right.SLDPRT)
+- 📥 [Download Right Leg Part 3.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/cad/Part3_Right.SLDPRT)
+- 📥 [Download Right Leg Part 4.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/cad/Part4_Right.SLDPRT)
 
 *Left Leg (4 parts):*
-- 📥 [Download Left Leg Part 1.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/cad/Part1_Left.SLDPRT
-)
-- 📥 [Download Left Leg Part 2.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/cad/Part2_Left.SLDPRT
-)
+- 📥 [Download Left Leg Part 1.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/cad/Part1_Left.SLDPRT)
+- 📥 [Download Left Leg Part 2.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/cad/Part2_Left.SLDPRT)
 - 📥 [Download Left Leg Part 3.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/cad/Part3_Left.SLDPRT)
-- 📥 [Download Left Leg Part 4.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/cad/Part4_left.SLDPRT
-)
+- 📥 [Download Left Leg Part 4.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/cad/Part4_left.SLDPRT)
 
 *Shared Part (both legs):*
-- 📥 [Download Shared Part.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/cad/Part5_Shared.SLDPRT
-)
+- 📥 [Download Shared Part.SLDPRT](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/cad/Part5_Shared.SLDPRT)
+
+---
 
 ## 🛠️ Assembly Instructions
-Re-Move is designed for easy self-assembly. You do not need advanced technical skills, and the process takes less than 2 hours.
-
-We have created a highly visual, step-by-step assembly manual to guide you through cutting the aluminum, placing the springs, and routing the straps.
-
-📖 📥 **[Download the Visual Assembly Manual (PDF)](ruta/al/teu_manual.pdf)**
-
----
-
-## ⚠️ Safety Disclaimer
-**Please read carefully before building or using.**
-Re-Move is an experimental, open-source engineering project. **It is NOT a certified medical device.** It is designed solely to assist with the vertical squatting motion, not for walking or supporting full body weight in cases of severe paralysis. 
-
-Be careful while using the tools to modify the aluminium profile. They tend to be dumb-proof, but are still designed to make their way through harder things than your fingers.
-
-The author has no medical knowledge (so far) and assumes no responsibility for injuries. Use at your own risk. 
-
-
-
----
-
-## 📄 License
-This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+Re-Move is designed for easy self-assembly. You do no
