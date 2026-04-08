@@ -93,5 +93,12 @@ The author has no medical knowledge (so far) and assumes no responsibility for i
 
 ---
 
+## Contributing
+Contributions are welcome! If you improve the design, find a bug, 
+or want to adapt it for a different use case, feel free to open 
+an Issue or submit a Pull Request.
+
+---
+
 ## 📄 License
 Re-Move: Open-Source Knee Exoskeleton © 2025 by Marcel Hansmann is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
