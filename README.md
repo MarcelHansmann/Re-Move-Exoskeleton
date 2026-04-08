@@ -1,4 +1,4 @@
-# 🦾 Re-Move: Open-Source Knee Exoskeleton
+# Re-Move: Open-Source Knee Exoskeleton
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MarcelHansmann/Re-Move-Exoskeleton/main/photos/Img2.png" width="600" title="Re-Move Exoskeleton">
@@ -6,7 +6,7 @@
 
 *Designed to democratize access to mobility assistance.*
 
-## 🎯 Overview
+## Overview
 Re-Move is a knee exoskeleton designed to assist with squatting movements. Rooted in an open-source philosophy and engineered for user fabrication, its goal is to democratize access to mobility assistance. Current commercial solutions cost around €2,000; **Re-Move reduces this cost to just €50 per unit**, making it forty times more affordable.
 
 The system stores potential energy in elastic springs during knee flexion (the downward phase) and releases it in a controlled manner during extension (the upward phase), providing a **23% assistance** to the user's effort. Structurally, the device consists of four 3D-printed elements assembled with standardized metal components that provide all necessary structural rigidity.
@@ -17,7 +17,7 @@ The system stores potential energy in elastic springs during knee flexion (the d
 
 ---
 
-## 📦 Bill of Materials (BOM) & Files
+## Bill of Materials (BOM) & Files
 
 The total cost of materials is approximately €50. You will need both the standard hardware components and the 3D printed parts.
 
@@ -40,9 +40,9 @@ The total cost of materials is approximately €50. You will need both the stand
 
 Download the `.3mf` plates with all elements ready to go — settings are already configured inside the files, just slice and print!
 
-👉 📥 **[Download Right Leg .3mf File](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/BambuLabFiles/RightLegPlate.3mf)**
+ 📥 **[Download Right Leg .3mf File](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/BambuLabFiles/RightLegPlate.3mf)**
 
-👉 📥 **[Download Left Leg .3mf File](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/BambuLabFiles/LeftLegPlate.3mf)**
+ 📥 **[Download Left Leg .3mf File](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/raw/main/BambuLabFiles/LeftLegPlate.3mf)**
 
 *Basic Slicing Guidelines:*
 - **Material:** PLA Basic recommended.
