@@ -79,7 +79,7 @@ Re-Move is designed for easy self-assembly. You do not need advanced technical s
 
 We have created a highly visual, step-by-step assembly manual to guide you through cutting the aluminum, placing the springs, and routing the straps.
 
-📖 📥 **[Download the Visual Assembly Manual (PDF)](ruta/al/teu_manual.pdf)**
+📖 📥 **[Download the Visual Assembly Manual (PDF)](https://github.com/MarcelHansmann/Re-Move-Exoskeleton/blob/main/Assembly%20Manual%20Re-Move.pdf)**
 
 ---
 
